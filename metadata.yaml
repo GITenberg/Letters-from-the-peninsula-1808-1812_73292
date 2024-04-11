@@ -1,0 +1,32 @@
+_repo: Letters-from-the-peninsula-1808-1812_73292
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warre, William
+    gutenberg_agent_id: '57023'
+    url: http://www.gutenberg.org/2009/agents/57023
+  editor:
+    agent_name: Warre, Edmond
+    gutenberg_agent_id: '57024'
+    url: http://www.gutenberg.org/2009/agents/57024
+description: ''
+gutenberg_issued: '2024-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73292'
+language: en
+pgterms:marc904: https://archive.org/details/lettersfrompenin00warr
+pgterms:marc905: 20210518183442warre
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aLondon :$bJohn Murray, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Letters from the peninsula, 1808-1812
+url: http://www.gutenberg.org/ebooks/73292
