@@ -1,5 +1,8 @@
 _repo: Letters-from-the-peninsula-1808-1812_73292
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73292-h/images/cover.jpg
 creator:
   author:
     agent_name: Warre, William
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '57024'
     url: http://www.gutenberg.org/2009/agents/57024
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73292#Letters-from-the-peninsula-1808-1812
 gutenberg_issued: '2024-03-30'
 gutenberg_type: Text
 identifiers:
